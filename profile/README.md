@@ -4,4 +4,4 @@
 
 sled 15 minuti
 
-[wiki](https://kachvame.github.io/wiki)
+[wiki](https://wiki.kachva.me)
